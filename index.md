@@ -1,5 +1,4 @@
-Raymond Hernandez
-
+# Raymond Hernandez
 # Hello World
 
 This is my home page: My name is Raymond Hernandez and I am a student at [Cal State Fullerton](http:fullerton.edu/) and my major is Mechanical engineering with a minor in Computer Science.
